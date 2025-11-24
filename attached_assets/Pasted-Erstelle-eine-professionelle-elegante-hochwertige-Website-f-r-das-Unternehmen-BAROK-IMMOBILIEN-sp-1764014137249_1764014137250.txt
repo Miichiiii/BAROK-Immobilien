@@ -1,0 +1,337 @@
+Erstelle eine professionelle, elegante, hochwertige Website für das Unternehmen BAROK-IMMOBILIEN, spezialisiert auf Immobilienverwaltung, Renovierung, Maklerleistungen, Facility Services, Vertragsoptimierung und Haushaltsbetreuung.
+Der gesamte Webauftritt soll seriös, edel, modern, vertrauenswürdig und hochwertig wirken – wie ein Premium-Immobilienservice, der Werte erhält und Rendite steigert.
+
+1. BRANDING & DESIGNVORGABEN
+
+Farbstil: dunkles Anthrazit, Weiß, warmes Gold (#C9A86A), Akzent Dunkelblau oder Smaragdgrün
+
+Schriftstil: moderne Serifenschrift für Headlines (z. B. Playfair, Cormorant), elegante Sans-Serif für Body (z. B. Inter, Lato)
+
+Look & Feel: luxuriös, klar, strukturiert, hochwertig, zeitlos
+
+Icons: dünn, minimalistisches Line-Art, gold oder weiß
+
+Bilderstil: hochwertige Immobilienfotos, gepflegte Wohnanlagen, moderne Interieurs, professionelle Dienstleistungs-Bilder, freundliche Betreuungsszenen
+
+Logo-Platzierung: oben links, sticky Navigation
+
+2. WEBSITE-STRUKTUR
+
+Erstelle folgende Seiten/Abschnitte in perfektem, flüssigem Deutsch:
+
+→ STARTSEITE (HOME)
+Hero-Bereich
+
+Großes, hochwertiges Immobilienbild oder ein modernes Haus im Abendlicht
+
+Titel: „BAROK-IMMOBILIEN – Räume mit Zukunft“
+
+Untertitel: Professionelle Immobilienverwaltung, Sanierung & Rundum-Service für Eigentümer, Vermieter und Investoren.
+
+Zwei Buttons:
+
+„Jetzt Kontakt aufnehmen“ (Primär, gold)
+
+„Unsere Leistungen“ (Sekundär, weiß)
+
+Kurze Einführung
+
+2–3 Sätze:
+BAROK steht für professionelle und persönliche Immobilienbetreuung mit Fokus auf Werterhalt, Effizienz und zuverlässige Rundum-Services. Wir entlasten Eigentümer in allen Bereichen – von Mietverwaltung bis Komplettsanierung.
+
+Werte-Sektion
+
+Drei Kacheln im Premium-Design:
+
+Vertrauen & Partnerschaft – Eine solide Basis für nachhaltige Immobilienbetreuung.
+
+Kompetenz & Erfahrung – Fachwissen für langfristigen Werterhalt.
+
+Qualität & Service – Höchste Standards für Eigentümer und Mieter.
+
+Leistungsschnellübersicht (6 Icons)
+
+Mietwohnungsverwaltung
+
+Renovierung & Sanierung
+
+Facility Service / Hausmeisterservice
+
+Vertragsoptimierung
+
+Immobilienmaklerarbeiten
+
+Haushaltsbetreuung
+
+Slogan/USP-Bereich
+
+„Wir kümmern uns um Ihre Immobilie – als wäre es unsere eigene.“
+
+Kontakt-Teaser
+
+Kurzer CTA mit Nummer & Button.
+
+→ ÜBER UNS
+Einleitung
+
+Eine ausführliche Beschreibung, die die Unternehmensphilosophie präsentiert:
+BAROK-IMMOBILIEN kombiniert persönliche Betreuung mit professioneller Verwaltungs- und Servicekompetenz. Fokus: langfristiger Werterhalt, maximale Rendite, transparente Abläufe.
+
+Abschnitt: Unsere Mission
+
+Nachhaltigkeit
+
+Zuverlässigkeit
+
+Wirtschaftlichkeit
+
+Persönliche Ansprechpartner
+
+Abschnitt: Warum wir?
+
+individuelle Lösungen
+
+jahrzehntelange Erfahrung
+
+klare Kommunikation
+
+Full-Service aus einer Hand
+
+→ LEISTUNGEN (Hauptseite)
+
+Erstelle für jeden Service einen vollständigen, hochwertigen Textabschnitt mit Erklärungen, Vorteilen & typischen Einsatzbeispielen.
+
+1. Mietwohnungsverwaltung
+
+Enthalten muss sein:
+
+Überwachung der Zahlungseingänge
+
+Mahnwesen
+
+Mietkontenführung
+
+Nebenkostenabrechnungen (rechtskonform & termingerecht)
+
+Buchhaltung & Rechnungsprüfung
+
+Kommunikation mit Mietern, Behörden, Dienstleistern
+
+Organisation von Reparaturen & Instandhaltung
+
+Dokumentation aller Abläufe
+
+Sicherstellung der Wirtschaftlichkeit
+
+Vorteile für Eigentümer:
+
+Zeitersparnis
+
+finanzielle Klarheit
+
+weniger Stress
+
+geringere Leerstände
+
+professionelle Betreuung
+
+2. Renovierung & Sanierung
+
+Erstelle ausführliche Texte zu:
+
+Schönheitsreparaturen
+
+komplette Wohnungsmodernisierung
+
+energetische Sanierung
+
+Bodenarbeiten
+
+Malerarbeiten
+
+Elektrik & Sanitär
+
+Badmodernisierungen
+
+Koordination aller Gewerke
+
+Qualitätskontrolle
+
+Übergabe nach Fertigstellung
+
+Betone:
+„Alles aus einer Hand – zuverlässig, termingerecht, fachgerecht.“
+
+3. Facility Service (inkl. Hausmeisterservice)
+
+Teile in drei Bereiche:
+
+a) Reinigungsservice
+
+Treppenhäuser
+
+Gemeinschaftsflächen
+
+Fenster
+
+Tiefgaragen
+
+Sonderreinigungen
+
+b) Objektbetreuung / Hausmeisterservice
+
+Objektkontrollen
+
+Kleinreparaturen
+
+Handwerkerkoordination
+
+Überwachung der technischen Anlagen
+
+c) Gebäudereinigung
+
+Sauberkeit als Werterhalt
+
+gepflegte Eingangsbereiche
+
+professionelle Reinigungsstandards
+
+4. Vertragsoptimierung
+
+Inhalte:
+
+Analyse bestehender Energie- und Versorgungsverträge
+
+Prüfung von Laufzeiten, Preisen, Bedingungen
+
+Anbieter-Vergleich
+
+Umstellung & Kommunikation
+
+Ziel: dauerhafte Kostenersparnis für Eigentümer
+
+5. Immobilienmaklerarbeiten
+
+Umfassen muss:
+
+Neuvermietung & Besichtigungsorganisation
+
+Aufbereitung der Unterlagen
+
+Vermarktung
+
+Begleitung beim Verkauf
+
+Beratung von Kapitalanlegern
+
+Leerstandsmanagement
+
+Aufwertung & Modernisierungsbegleitung
+
+Betreuung bis zur Übergabe
+
+6. Haushaltsbetreuung
+
+Zielgruppe: Senioren & Menschen, die Unterstützung benötigen.
+
+Leistungsinhalt:
+
+Aufräumen, Einkaufen, Wäsche
+
+kleine Reinigungsarbeiten
+
+Essensvorbereitung
+
+Alltagsorganisation
+
+Arztbegleitung
+
+Besorgungen
+
+Hilfe bei Verwaltung & Kommunikation
+
+Entlastung für Angehörige
+
+freundlicher, diskreter Service
+
+→ KONTAKT
+
+Formularfelder:
+
+Name
+
+Mobil
+
+E-Mail
+
+Nachricht
+
+Kontaktdaten anzeigen:
+
+Mobil: +49 163 8435 195
+
+E-Mail: info@barok-immobilien.de
+
+CTA: „Jetzt unverbindlich anfragen“
+
+→ FOOTER
+
+Impressum
+
+Datenschutz
+
+Copyright: BAROK-IMMOBILIEN – 2025
+
+dezentes Gold-Highlight
+
+3. SEO-OPTIMIERUNG
+
+Bitte integriere folgende SEO-Schlüsselbegriffe natürlich in die Texte:
+
+Immobilienverwaltung
+
+Mietverwaltung
+
+Hausverwaltung
+
+Facility Service
+
+Renovierung & Sanierung
+
+Immobilienservice
+
+Objektbetreuung
+
+Vermietungsservice
+
+Immobilienmakler
+
+Haushaltsbetreuung
+
+Wohnungsmodernisierung
+
+Erstelle:
+
+SEO-Titel
+
+Meta-Beschreibungen
+
+H1 / H2 Struktur
+
+alt-Texte für Bilder
+
+optimierte URLs
+
+4. TECHNISCHE VORGABEN
+
+Die Website soll:
+
+responsive sein
+
+sehr schnell laden
+
+klare Navigation besitzen
+
+DSGVO-konform sein
+
+strukturierte Daten enthalten (Local Business, Real Estate Service)
